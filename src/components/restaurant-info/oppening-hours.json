@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_restaurant_info_oppening_hours",
+  "info": {
+    "displayName": "Oppening Hours",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    },
+    "days": {
+      "type": "string"
+    }
+  }
+}
